@@ -10,4 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-
+Sitemap: http://haiyuanhe.github.io/sitemap.xml
+Sitemap: http://haiyuanhe.github.io/baidusitemap.xml
