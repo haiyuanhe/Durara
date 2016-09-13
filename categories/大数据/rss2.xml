@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>https://haiyuanhe.github.io/</link>
+        <atom:link href="/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/rss2.xml" rel="self" type="application/rss+xml"/>
+        
+        <description></description>
+        <pubDate>Tue, 13 Sep 2016 01:16:14 GMT</pubDate>
+        <generator>http://hexo.io/</generator>
+        
+        <item>
+            <title>Hbase增删改查、关联查询、关系型数据库转化</title>
+            <link>https://haiyuanhe.github.io/2016/09/13/%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5%E3%80%81%E5%85%B3%E8%81%94%E6%9F%A5%E8%AF%A2%E3%80%81%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BD%AC%E5%8C%96/</link>
+            <guid>https://haiyuanhe.github.io/2016/09/13/%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5%E3%80%81%E5%85%B3%E8%81%94%E6%9F%A5%E8%AF%A2%E3%80%81%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BD%AC%E5%8C%96/</guid>
+            <pubDate>Tue, 13 Sep 2016 00:40:27 GMT</pubDate>
+            <description>
+                
+                &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;p&gt;主要的目的是想直接通过Hbase 来将项目上面没有什么作为的mysql 给替代, 这样能够对我们维护的负担压力减轻更多.同时
+                
+            </description>
+            
+            <comments>https://haiyuanhe.github.io/2016/09/13/%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5%E3%80%81%E5%85%B3%E8%81%94%E6%9F%A5%E8%AF%A2%E3%80%81%E5%85%B3%E7%B3%BB%E5%9E%8B%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BD%AC%E5%8C%96/#disqus_thread</comments>
+        </item>
+        
+    </channel>
+</rss>
