@@ -8,7 +8,7 @@
         <atom:link href="/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/rss2.xml" rel="self" type="application/rss+xml"/>
         
         <description></description>
-        <pubDate>Tue, 13 Sep 2016 01:16:14 GMT</pubDate>
+        <pubDate>Fri, 16 Sep 2016 02:36:46 GMT</pubDate>
         <generator>http://hexo.io/</generator>
         
         <item>
@@ -18,7 +18,7 @@
             <pubDate>Tue, 13 Sep 2016 00:40:27 GMT</pubDate>
             <description>
                 
-                &lt;h2 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h2&gt;&lt;p&gt;主要的目的是想直接通过Hbase 来将项目上面没有什么作为的mysql 给替代, 这样能够对我们维护的负担压力减轻更多.同时
+                &lt;h1 id=&quot;写在前面&quot;&gt;&lt;a href=&quot;#写在前面&quot; class=&quot;headerlink&quot; title=&quot;写在前面&quot;&gt;&lt;/a&gt;写在前面&lt;/h1&gt;&lt;p&gt;主要的目的是想直接通过Hbase 将上面上面的Mysql 替换成Hbase, 这样能够对我们维护的负担压力减轻更多(调研),
                 
             </description>
             
